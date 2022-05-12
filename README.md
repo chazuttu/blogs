@@ -8,6 +8,7 @@ This web application creates an very basic blog using Django.It allows blog auth
 To Run this project locally on your computer:
 
 Set up the Python development environment.Recommended to use a Python virtual environment.
+
 After you have Python setup, run the following commands :
 pip install -r requirements.txt
 python manage.py makemigrations
