@@ -19,12 +19,11 @@ Set Database (Make Sure you are in directory same as manage.py)
 Create SuperUser
 * python manage.py createsuperuser
 
-
+Run Server
+* python manage.py runserver
+* 
 *Open a browser to http://127.0.0.1:8000/admin/ to open the admin site*
 
 *Open tab to http://127.0.0.1:8000/home/ to see the main site.*
 
 
-After all these steps , you can start testing and developing this project.
-
-*Happy Coding!*
