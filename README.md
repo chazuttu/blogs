@@ -1,6 +1,6 @@
 # Blogging Web Application
 ## About
-This Project is made using Python 3.6 + Django and database is SQLite.This web application creates an very basic blog using Django.It allows blog authors to create blogs using the Admin site with login and registration functionality.
+This Project is made using Python 3.6 + Django and Database is SQLite. This web application creates an very basic blog using Django.It allows blog authors to create blogs using the Admin site with login and registration functionality.
 
 ## Quick Start
 Clone This Project
